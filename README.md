@@ -1,16 +1,15 @@
-# budget_management
+Budget Management
 
-A new Flutter project.
+An app with simple user interface with numerous features.
 
-## Getting Started
+This app is built for people who really want to keep track of their transactions and analyse it throught the year also who would like to save some money for the future.
 
-This project is a starting point for a Flutter application.
+This app takes care of every single perspective that user might want to manipulate their salary virtually. 
 
-A few resources to get you started if this is your first Flutter project:
+Features:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Monthly analysis of users salary.
+* Every single transaction is saved on users device.
+* Chart Display of their transactions in category specific way.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
